@@ -1,9 +1,9 @@
 
 ## Mini Aplicacion de comandos
 
-Practica de comandos de node
+Aplicacion de Comandos Basicos en Node JS
 
-Ejecutar este comando
+Ejecutar este comando para reconstruir los paquetes necesarios
 
 ````
 npm install
